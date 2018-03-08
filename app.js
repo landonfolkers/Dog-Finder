@@ -24,7 +24,7 @@ function populate() {
 populate()
 
 function addValue() {
-    return random = random + dropDown.value + "&sex=" + gender.value
+    return random = "http://galvanize-cors.herokuapp.com/http://api.petfinder.com/pet.getRandom?key=ebb05140e2eac8b2c2472e4e247888ae&output=basic&animal=dog&format=json&breed=" + dropDown.value + "&sex=" + gender.value
 }
 
 function clearDog() {
