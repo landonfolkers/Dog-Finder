@@ -13,8 +13,20 @@
         <h1>Dog Finder</h1>
     </header>
     <main>
-        <button class="button">Gimme a Dog!</button>
-        <ul id='dog'></ul>
+        <section class="form">
+            <label for="breed">Breed</label>
+            <select id="breed" name="breed">
+                <option></option>
+            </select>
+            <label for="sex">Sex</label>
+            <select id="sex" name="sex"/>
+                <option></option>
+                <option>M</option>
+                <option>F</option>
+            </select>
+            <input type="submit" id="Gimme" class="button" value="Gimme A Dog!"/>
+        </section>
+        <ul id='dog'></ul> 
     </main>
     <script src="app.js"></script>
 </body>
