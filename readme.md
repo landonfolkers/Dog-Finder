@@ -17,4 +17,4 @@ For this project, you will build a light application that reads data, has end-to
 
 ### Submission
 
-Add a link to your code, and your deployed site http://dog-finder.surge.sh/.
+Add a link to your code, https://github.com/landonfolkers/Dog-Finder  and your deployed site  http://dog-finder.surge.sh/.
