@@ -1,20 +1,5 @@
-## Galvanize Web App
+* This is a web app that lets you find random dogs in shelters all around the U.S. that need to be adopted. 
+* The app lets you filter dogs by breed or gender. 
+* The app was built using HTML, CSS, and JavaScript. 
 
-For this project, you will build a light application that reads data, has end-to-end testing, and integrates with an API. The topic is up to you, so pick a project that speaks to your interests.
-
-### Instructions
-
-* You should have a brochure page that has information about what your app does and who it's for.
-* Your app should make a GET request to an external API
-* Your app should also pull from a second source of data. This can be another API, another endpoint on the same API, or from a local `.json` file
-* You need to write some data transformation that combines the two objects in a meaningful way
-* The resulting data should be dynamically added to the page
-* You should allow a user to change the API end point. For example, get data about a specific movie, weather for a specific zip code, etc
-* Your app should have end-to-end tests
-* Deploy your app
-
----
-
-### Submission
-
-Add a link to your code, https://github.com/landonfolkers/Dog-Finder  and your deployed site  http://dog-finder.surge.sh/.
+* The site is deploye here. http://dog-finder.surge.sh/.
